@@ -1,0 +1,33 @@
+########################################
+#@R..........RR.......R............R..D#
+#....R..RR....R......R...RR....R....RRR#
+#RR......D.....RRR...R....RR..R.......R#
+#..R.......R.........R.....D...R.......#
+#WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW.......#
+#RR...R......DR....R........RRR.R...R.R#
+#........R...R.R....R....R........RRR..#
+#..R...R.......R.....R..RR........R.D..#
+#..R.......R.....R.......R.R........R.R#
+#....R..WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW#
+#.D......R.R.D..W..R..RR.R....RR.....R.#
+#..R.......RR...W.R......R..R.......RRR#
+#..R..RR.R....R.W.RR.R..R.....R...R..D.#
+#.............R.W....R.R..RRR..RR..R.R.#
+#....RR.W...R...W.R....RWWWWWWWWRR...R.#
+#....R..W.R..R..W....RRDW...R..R....R.R#
+#.R.....WDR.....WRR..R..WR.R.....R..R..#
+#.R.....W.......W.......W.DR..R........#
+#R...RR.WRR.R..R..R..R.RWRR.....WWWWWWW#
+#..R....W............RR.W...R.......R..#
+#..DR...WRR....RRR......W...R.R....RRE.#
+#.....RRW...RR.DR...RRR.W.R...R..R.R.R.#
+########################################
+
+NAME: "First"
+TIME: 200
+AMOEBA_MAX_SIZE: 10
+MAGIC_WALL_DURATION: 50
+GAME_TICK_INTERVAL: 250
+ANIMATION_TICK_INTERVAL: 200
+AMOEBA_GROWTH_FACTOR: 1
+DIAMONDS_REQUIRED: 12
